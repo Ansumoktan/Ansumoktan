@@ -74,7 +74,6 @@ const ansumoktan = {
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
@@ -86,40 +85,10 @@ const ansumoktan = {
 
 <div align="center">
 
-![Ansumoktan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansumoktan&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=61dafb&icon_colo[...]
-
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ansumoktan&theme=react&hide_border=true&background=0d1117&ring=61dafb&fire=ff6b9d&currStreakLabel=61dafb)
 
 </div>
-
----
-
-## 📌 Featured Projects
-
-### 🚀 E-Commerce Platform
-A full-featured e-commerce application with user authentication, product management, shopping cart, and payment integration.
-- **Tech:** React, Node.js, Express, MongoDB, Stripe
-- **Features:** User Auth, Product Catalog, Cart Management, Payment Processing, Admin Dashboard
-- **[View Project →](https://github.com/Ansumoktan/ecommerce-platform)**
-
-### 💬 Real-Time Chat Application
-A modern messaging application with real-time communication, user profiles, and group chat functionality.
-- **Tech:** React, Node.js, Socket.io, MongoDB
-- **Features:** Real-time Messaging, User Presence, Group Chats, File Sharing
-- **[View Project →](https://github.com/Ansumoktan/chat-application)**
-
-### 📊 Task Management Dashboard
-A productivity application for managing tasks, projects, and team collaboration with intuitive UI.
-- **Tech:** React, Express, MongoDB, Tailwind CSS
-- **Features:** Task Tracking, Project Management, Team Collaboration, Analytics
-- **[View Project →](https://github.com/Ansumoktan/task-dashboard)**
-
-### 🎓 Learning Management System
-A comprehensive platform for online courses, student enrollment, and progress tracking.
-- **Tech:** MERN Stack, JWT Auth, Stripe Integration
-- **Features:** Course Management, Student Portal, Progress Tracking, Payment System
-- **[View Project →](https://github.com/Ansumoktan/lms-platform)**
 
 ---
 
@@ -152,7 +121,6 @@ A comprehensive platform for online courses, student enrollment, and progress tr
 - 🔍 GraphQL & Apollo Client
 - 🚀 Advanced React Patterns
 - ☁️ Cloud deployment (AWS, Heroku)
-- 🧪 Test-Driven Development
 - 🎨 Advanced UI/UX Design with Figma
 
 ---
@@ -180,11 +148,11 @@ Focus: Clean Code → Scalability → User Experience → Performance
 ## 📈 Contribution Activity
 
 ```
-Total Commits: 500+
-Active Repositories: 30+
-Open Source Contributions: 15+
+Total Commits: 100+
+Active Repositories: 20+
+Open Source Contributions: 10+
 Current Streak: Active 🔥
-Most Active: Thursday
+Most Active: Sunday
 ```
 
 ---
