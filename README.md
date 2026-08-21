@@ -1,41 +1,41 @@
 # Ansumoktan — Software Developer
 
-नमस्ते 👋 म Ansumoktan, एक व्यावसायिक सफ्टवेयर विकासकर्ता र खुला-स्रोत उत्साही। यो मेरो GitHub प्रोफाइल README हो — छोटो परिचय, कौशल र प्रोजेक्टहरूको सङ्क्षेप।
+Hello 👋 I'm Ansumoktan — a professional software developer and open-source enthusiast. I build user-centered, reliable applications and follow clean, maintainable coding practices.
 
 ---
 
 ## Summary
 
 - Role: Software Developer (Web & Mobile)
-- Focus: Building reliable, user-centered applications; clean and maintainable code
+- Focus: Building reliable, user-centered applications; writing clean and maintainable code
 - Tech: JavaScript / TypeScript, Node.js, React, Next.js, Python, REST APIs, Docker, Git
 
 ## About Me
 
-म सधैं समस्याको समाधान खोज्ने र राम्रो प्रोग्रामिङ अभ्यास अपनाउने प्रयासमा छु। मैले साना-देखि-मध्यम उत्पादन फीचर र प्रोटोटाइपहरू विकास गरेको छु र डक्युमेन्टेशन तथा परीक्षणलाई महत्त्व दिन्छु। खुला स्रोतमा योगदान र सहकार्यले मलाई प्रेरित गर्छ।
+I enjoy solving problems and adopting good programming practices. I work on web and mobile applications with a focus on simplicity, accessibility, and testability. I like collaborating with teams, contributing to open source, and learning new tools and techniques.
 
 ## Selected Projects
 
-- Project A — संक्षिप्त: के गर्छ र कुन प्रविधि प्रयोग भयो। (link)
-- Project B — संक्षिप्त: प्रभाव/कامیटी। (link)
-- Project C — सानो युटिलिटी वा डेमो। (link)
+- Project A — Brief: what it does and which technologies were used. (link)
+- Project B — Brief: impact/outcome. (link)
+- Project C — Small utility or demo. (link)
 
-(यदि चाहनुहुन्छ भने म यी प्रोजेक्टहरूको वास्तविक लिंक र संक्षिप्त विवरण Fetch गरेर यहाँ थप्न सक्छु।)
+(If you want, I can automatically populate this section with real links and short descriptions taken from your repositories.)
 
 ## Work & Collaboration
 
-म नयाँ प्रोजेक्टहरू, कोड रिभ्यु, र प्रोटोटाइप बनाउने अवसरहरूका लागि खुला छु। सहकार्यका लागि GitHub मा इशु खोल्नुहोस् वा सिधै मेटिङ/मेसेजको लागि इमेल पठाउनुहोस्।
+I am open to new projects, code reviews, and building prototypes. I enjoy working with teams that care about user experience, performance, and maintainability. If you have a project or an opportunity, let's talk.
 
 ## Contact
 
 - GitHub: https://github.com/Ansumoktan
-- Email: your-email@example.com  (कृपया वास्तविक इमेल राख्नुहोस्)
+- Email: your-email@example.com  (please replace with your real email)
 
 ---
 
-अर्को कदमहरू म गर्न सक्छु:
-- तपाईँका वास्तविक रिपोजिटोरीहरूबाट Projects भाग स्वचालित रूपमा भर्नु
-- README लाई पूर्ण अंग्रेजी वा द्विभाषी बनाउनु
-- भाषाहरू/स्टेटस/वेबसाइटका ब्याज ब्रोन्जहरू (badges) थप्नु
+Next steps I can help with:
+- Automatically populate the "Selected Projects" section from your real repositories
+- Make the README bilingual (Nepali + English) or fully English
+- Add language and status badges or a personal website link
 
-कुनै विशेष तत्व थप्न चाहनुहुन्छ? (जस्तै: पोर्टफोलियो लिंक, वास्तविक प्रोजेक्ट नाम/लिङ्क, इमेल, ट्विटर)
+Would you like me to fill the Projects section with actual repository links and descriptions, or keep placeholders for now?
