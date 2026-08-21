@@ -96,10 +96,10 @@ const ansumoktan = {
 
 | **Frontend** | **Backend** | **Database** | **DevOps** |
 |:---:|:---:|:---:|:---:|
-| React.js | Node.js | MongoDB | Docker |
-| HTML/CSS | Express | PostgreSQL | Git/GitHub |
-| Tailwind CSS | REST APIs | Firebase | Linux |
-| JavaScript | Authentication | Redis | CI/CD |
+| React.js | Node.js | MongoDB | Git/GitHub |
+| HTML/CSS | Express | MySql |Linux  |
+| Tailwind CSS || Authecation  | Firebase |  
+| JavaScript 
 
 ---
 
