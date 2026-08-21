@@ -13,22 +13,6 @@
 
 </div>
 
----
-
-## 👾 About Me
-
-```javascript
-const ansumoktan = {
-    name: "Ansumoktan",
-    role: "MERN Stack Developer",
-    location: "Nepal 🇳🇵",
-    specialization: ["Full Stack Development", "Web Applications"],
-    expertise: ["MongoDB", "Express", "React", "Node.js"],
-    languages: ["JavaScript", "TypeScript"],
-    passion: "Building scalable, user-centric web applications with modern technologies",
-    funFact: "I turn coffee ☕ into responsive web apps 🚀"
-};
-```
 
 ---
 
