@@ -5,7 +5,7 @@
 **MERN Stack Developer | Full Stack Engineer | Web Application Specialist**
 
 <a href="https://github.com/Ansumoktan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+Scalable+Web+[...]
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Engineer;Web+Application+Specialist;Building+Scalable+Web+Applications"
 </a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF6B00?style=flat-square&logo=firefox)](https://ansumoktan.dev)
