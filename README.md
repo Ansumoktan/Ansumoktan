@@ -1,16 +1,41 @@
-## Hi there 👋
+# Ansumoktan — Software Developer
 
-<!--
-**Ansumoktan/Ansumoktan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+नमस्ते 👋 म Ansumoktan, एक व्यावसायिक सफ्टवेयर विकासकर्ता र खुला-स्रोत उत्साही। यो मेरो GitHub प्रोफाइल README हो — छोटो परिचय, कौशल र प्रोजेक्टहरूको सङ्क्षेप।
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Summary
+
+- Role: Software Developer (Web & Mobile)
+- Focus: Building reliable, user-centered applications; clean and maintainable code
+- Tech: JavaScript / TypeScript, Node.js, React, Next.js, Python, REST APIs, Docker, Git
+
+## About Me
+
+म सधैं समस्याको समाधान खोज्ने र राम्रो प्रोग्रामिङ अभ्यास अपनाउने प्रयासमा छु। मैले साना-देखि-मध्यम उत्पादन फीचर र प्रोटोटाइपहरू विकास गरेको छु र डक्युमेन्टेशन तथा परीक्षणलाई महत्त्व दिन्छु। खुला स्रोतमा योगदान र सहकार्यले मलाई प्रेरित गर्छ।
+
+## Selected Projects
+
+- Project A — संक्षिप्त: के गर्छ र कुन प्रविधि प्रयोग भयो। (link)
+- Project B — संक्षिप्त: प्रभाव/कامیटी। (link)
+- Project C — सानो युटिलिटी वा डेमो। (link)
+
+(यदि चाहनुहुन्छ भने म यी प्रोजेक्टहरूको वास्तविक लिंक र संक्षिप्त विवरण Fetch गरेर यहाँ थप्न सक्छु।)
+
+## Work & Collaboration
+
+म नयाँ प्रोजेक्टहरू, कोड रिभ्यु, र प्रोटोटाइप बनाउने अवसरहरूका लागि खुला छु। सहकार्यका लागि GitHub मा इशु खोल्नुहोस् वा सिधै मेटिङ/मेसेजको लागि इमेल पठाउनुहोस्।
+
+## Contact
+
+- GitHub: https://github.com/Ansumoktan
+- Email: your-email@example.com  (कृपया वास्तविक इमेल राख्नुहोस्)
+
+---
+
+अर्को कदमहरू म गर्न सक्छु:
+- तपाईँका वास्तविक रिपोजिटोरीहरूबाट Projects भाग स्वचालित रूपमा भर्नु
+- README लाई पूर्ण अंग्रेजी वा द्विभाषी बनाउनु
+- भाषाहरू/स्टेटस/वेबसाइटका ब्याज ब्रोन्जहरू (badges) थप्नु
+
+कुनै विशेष तत्व थप्न चाहनुहुन्छ? (जस्तै: पोर्टफोलियो लिंक, वास्तविक प्रोजेक्ट नाम/लिङ्क, इमेल, ट्विटर)
