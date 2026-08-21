@@ -127,6 +127,15 @@ Requirements → Design → Development → Testing → Deployment → Maintenan
 Focus: Clean Code → Scalability → User Experience → Performance
 ```
 
+## About Me
+
+I'm a MERN-stack Full-Stack Developer focused on building scalable, maintainable web applications. I specialize in designing clean RESTful APIs with Node.js and Express, and creating intuitive, accessible frontends with React. I prioritize performance, code quality, and developer experience, and I enjoy collaborating on projects that have real user impact.
+
+- Role: Full-Stack Developer (MERN)
+- Specialties: React, Node.js, Express, MongoDB
+- Interests: System design, performance optimization, UI/UX
+- Open to: Collaboration, freelance projects, mentorship
+
 ---
 
 ## 📈 Contribution Activity
