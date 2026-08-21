@@ -4,7 +4,7 @@
 
 
 <a href="https://github.com/Ansumoktan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Developer;UI UX+Designer;Building+Scalable+Web+Applications"
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Developer"
 </a>
 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:ansu33917@gmail.com)
