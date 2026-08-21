@@ -5,11 +5,11 @@
 **MERN Stack Developer | Full Stack Engineer | Web Application Specialist**
 
 <a href="https://github.com/Ansumoktan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+Scalable+Web+Apps;MongoDB+%7C+Express+%7C+React+%7C+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+Scalable+Web+[...]
 </a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF6B00?style=flat-square&logo=firefox)](https://ansumoktan.dev)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:ansu33917@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/Ansumoktan)
 [![Profile Views](https://komarev.com/ghpvc/?username=Ansumoktan&style=flat-square&color=61DAFB)](https://github.com/Ansumoktan)
 
@@ -39,8 +39,8 @@ const ansumoktan = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ansumoktan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ansumoktan)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ansumoktan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/ansumoktan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ansu_moktan1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:ansu33917@gmail.com)
 
 ---
 
@@ -90,7 +90,7 @@ const ansumoktan = {
 
 <div align="center">
 
-![Ansumoktan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansumoktan&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9)
+![Ansumoktan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansumoktan&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=61dafb&icon_colo[...]
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumoktan&theme=react&layout=compact&hide_border=true&bg_color=0d1117&title_color=61dafb&text_color=c9d1d9)
 
@@ -200,7 +200,7 @@ Most Active: Thursday
 
 **I'm always open to discussing new projects, ideas, or collaborations!**
 
-📧 **Email:** your-email@example.com  
+📧 **Email:** ansu33917@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/ansumoktan](https://linkedin.com/in/ansumoktan)  
 🐙 **GitHub:** [github.com/Ansumoktan](https://github.com/Ansumoktan)  
 🌐 **Portfolio:** [ansumoktan.dev](https://ansumoktan.dev)  
