@@ -37,7 +37,7 @@ const ansumoktan = {
 ## 🔗 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ansumoktan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ansumoktan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ansu-tamang-0a099b368)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ansumoktan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ansu_moktan1/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:ansu33917@gmail.com)
@@ -201,7 +201,7 @@ Most Active: Thursday
 **I'm always open to discussing new projects, ideas, or collaborations!**
 
 📧 **Email:** ansu33917@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/ansumoktan](https://linkedin.com/in/ansumoktan)  
+💼 **LinkedIn:** [linkedin.com/in/ansu-tamang-0a099b368](https://www.linkedin.com/in/ansu-tamang-0a099b368)  
 🐙 **GitHub:** [github.com/Ansumoktan](https://github.com/Ansumoktan)  
 🌐 **Portfolio:** [ansumoktan.dev](https://ansumoktan.dev)  
 
