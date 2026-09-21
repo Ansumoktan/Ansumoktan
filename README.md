@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 ANSUMOKTAN
+# 👨‍💻 BinaTamang
 
 
 <a href="https://github.com/Ansumoktan">
