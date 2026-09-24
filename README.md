@@ -167,6 +167,6 @@ Most Active: Sunday
 
 ### 🎓 Always Learning | 💻 Always Coding | 🚀 Always Growing
 
-**Made with ❤️ by Ansumoktan**
+**Made with ❤️ by BinaTamang**
 
 </div>
