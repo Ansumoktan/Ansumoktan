@@ -78,11 +78,11 @@
 
 ## 💼 Skills & Expertise
 
-| **Frontend** | **Backend** | **Database** |  
-|:---:|:---:|:---:|:---:|
-| React.js | Node.js | MongoDB | Git/GitHub |
-| HTML/CSS | Express | MySql |Linux  |
-| Tailwind CSS || Authecation  |    |  
+| **Frontend** | **Backend** | **Database** | **programing**|  
+|:------------:|:-----------:|:-------------:|:------------:|
+|   React.js   |   Node.js   |   MongoDB    |    Python     |
+| HTML/CSS     | Express     |   MySql      |     C++/C     |
+| Tailwind CSS || Authecation | PostgreSql |  
 | JavaScript 
 
 ---
