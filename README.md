@@ -78,11 +78,11 @@
 
 ## 💼 Skills & Expertise
 
-| **Frontend** | **Backend** | **Database** | **DevOps** |
+| **Frontend** | **Backend** | **Database** |  
 |:---:|:---:|:---:|:---:|
 | React.js | Node.js | MongoDB | Git/GitHub |
 | HTML/CSS | Express | MySql |Linux  |
-| Tailwind CSS || Authecation  | Firebase |  
+| Tailwind CSS || Authecation  |    |  
 | JavaScript 
 
 ---
@@ -92,7 +92,6 @@
 ✅ Build complete MERN stack applications from scratch  
 ✅ Design and implement RESTful APIs  
 ✅ Create responsive, user-friendly interfaces  
-✅ Implement user authentication & authorization  
 ✅ Optimize database queries & performance  
 ✅ Deploy applications to production  
 ✅ Write clean, maintainable code  
@@ -102,8 +101,6 @@
 
 ## 📚 Currently Learning
 
-- 🔍 GraphQL & Apollo Client
-- 🚀 Advanced React Patterns
 - ☁️ Cloud deployment (AWS, Heroku)
 - 🎨 Advanced UI/UX Design with Figma
 
@@ -156,7 +153,7 @@ Most Active: Sunday
 
 **I'm always open to discussing new projects, ideas, or collaborations!**
 
-📧 **Email:** ansu33917@gmail.com  
+📧 **Email:** binatmg33917@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/ansu-tamang-0a099b368](https://www.linkedin.com/in/ansu-tamang-0a099b368)  
 🐙 **GitHub:** [github.com/Ansumoktan](https://github.com/Ansumoktan)  
 🌐 **Portfolio:** [ansumoktan.dev](https://ansumoktan.dev)  
