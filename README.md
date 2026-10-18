@@ -79,28 +79,6 @@ I'm a developer passionate about building useful, scalable, and reliable web app
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Ansumoktan/Ansumoktan/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Ansumoktan/Ansumoktan/output/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Ansumoktan/Ansumoktan/output/github-snake.svg"
-      alt="Animated GitHub contribution snake"
-      width="100%"
-    />
-  </picture>
-</p>
-
----
-
 ## 💻 What I'm Working On
 
 - 🌐 Building full-stack applications using React and Node.js
