@@ -1,10 +1,9 @@
 <div align="center">
 
-# 👨‍💻 BinaTamang
-
+# 👨‍💻 Ansumoktan
 
 <a href="https://github.com/Ansumoktan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Develope[...]" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" />
 </a>
 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:ansu33917@gmail.com)
@@ -12,7 +11,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Ansumoktan&style=flat-square&color=61DAFB)](https://github.com/Ansumoktan)
 
 </div>
-
 
 ---
 
@@ -42,7 +40,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-
 ### ⚙️ Backend & API
 
 ![REST API](https://img.shields.io/badge/REST%20API-FF5733?style=flat-square&logo=api&logoColor=white)
@@ -52,7 +49,6 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
 
 ### 🔧 Tools & Platforms
 
@@ -69,7 +65,6 @@
 
 <div align="center">
 
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ansumoktan&theme=react&hide_border=true&background=0d1117&ring=61dafb&fire=ff6b9d&currStreakLabel=61dafb)
 
 </div>
@@ -78,12 +73,11 @@
 
 ## 💼 Skills & Expertise
 
-| **Frontend** | **Backend** | **Database** | **programing**|  
-|:------------:|:-----------:|:-------------:|:------------:|
-|   React.js   |   Node.js   |   MongoDB    |    Python     |
-| HTML/CSS     | Express     |   MySql      |     C++/C     |
-| Tailwind CSS || Authecation | PostgreSql |  
-| JavaScript 
+| **Frontend** | **Backend** | **Database** | **Programming** |
+|:------------:|:-----------:|:------------:|:--------------:|
+| React.js     | Node.js     | MongoDB      | Python         |
+| HTML/CSS     | Express     | MySQL        | C++/C          |
+| Tailwind CSS | Authentication | PostgreSQL | JavaScript     |
 
 ---
 
@@ -92,17 +86,17 @@
 ✅ Build complete MERN stack applications from scratch  
 ✅ Design and implement RESTful APIs  
 ✅ Create responsive, user-friendly interfaces  
-✅ Optimize database queries & performance  
+✅ Optimize database queries and performance  
 ✅ Deploy applications to production  
 ✅ Write clean, maintainable code  
-✅ Collaborate with teams using Git & agile workflows  
+✅ Collaborate with teams using Git and agile workflows  
 
 ---
 
 ## 📚 Currently Learning
 
 - ☁️ Cloud deployment (AWS, Heroku)
-- 🎨 Advanced UI/UX Design with Figma
+- 🎨 Advanced UI/UX design with Figma
 
 ---
 
@@ -118,7 +112,7 @@
 
 ## 💡 My Approach
 
-```
+```text
 Requirements → Design → Development → Testing → Deployment → Maintenance
 
 Focus: Clean Code → Scalability → User Experience → Performance
@@ -126,7 +120,7 @@ Focus: Clean Code → Scalability → User Experience → Performance
 
 ## About Me
 
-I'm a MERN-stack Full-Stack Developer focused on building scalable, maintainable web applications. I specialize in designing clean RESTful APIs with Node.js and Express, and creating intuitive, a[...] 
+I'm a MERN-stack Full-Stack Developer focused on building scalable, maintainable web applications. I specialize in designing clean RESTful APIs with Node.js and Express, and creating intuitive, modern user interfaces with React.
 
 - Role: Full-Stack Developer (MERN)
 - Specialties: React, Node.js, Express, MongoDB
@@ -137,7 +131,7 @@ I'm a MERN-stack Full-Stack Developer focused on building scalable, maintainable
 
 ## 📈 Contribution Activity
 
-```
+```text
 Total Commits: 100+
 Active Repositories: 20+
 Open Source Contributions: 10+
@@ -173,6 +167,6 @@ Most Active: Sunday
 
 ### 🎓 Always Learning | 💻 Always Coding | 🚀 Always Growing
 
-**Made with ❤️ by BinaTamang**
+**Made with ❤️ by Ansumoktan**
 
 </div>
