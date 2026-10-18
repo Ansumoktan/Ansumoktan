@@ -4,7 +4,7 @@
 
 
 <a href="https://github.com/Ansumoktan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Developer"
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Develope[...]" alt="typing"/>
 </a>
 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:ansu33917@gmail.com)
@@ -126,7 +126,7 @@ Focus: Clean Code → Scalability → User Experience → Performance
 
 ## About Me
 
-I'm a MERN-stack Full-Stack Developer focused on building scalable, maintainable web applications. I specialize in designing clean RESTful APIs with Node.js and Express, and creating intuitive, accessible frontends with React. I prioritize performance, code quality, and developer experience, and I enjoy collaborating on projects that have real user impact.
+I'm a MERN-stack Full-Stack Developer focused on building scalable, maintainable web applications. I specialize in designing clean RESTful APIs with Node.js and Express, and creating intuitive, a[...] 
 
 - Role: Full-Stack Developer (MERN)
 - Specialties: React, Node.js, Express, MongoDB
@@ -145,6 +145,15 @@ Current Streak: Active 🔥
 Most Active: Sunday
 ```
 
+<details>
+<summary>Show contribution animation</summary>
+
+<br />
+
+<img src="https://raw.githubusercontent.com/Ansumoktan/Ansumoktan/main/assets/snake.gif" width="100%" alt="snake animation">
+
+</details>
+
 ---
 
 ## 📞 Let's Connect
@@ -160,7 +169,7 @@ Most Active: Sunday
 
 ---
 
-<img src="https://raw.githubusercontent.com/Ansumoktan/Ansumoktan/main/assets/snake.gif" width="100%" alt="snake animation">
+<p align="center">
 
 ### 🎓 Always Learning | 💻 Always Coding | 🚀 Always Growing
 
