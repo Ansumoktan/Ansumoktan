@@ -1,7 +1,11 @@
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20👋&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=35" alt="Animated header" />
+
+<h3>Hi, I'm Bina Tamang 👋</h3>
+<p>MERN Developer | Lifelong Learner | Building Something New Every Day</p>
 
 </div>
 
@@ -20,7 +24,9 @@
   </a>
 </p>
 
-<h2 align="center">👩‍💻 About Me</h2>
+---
+
+## 👩‍💻 About Me
 
 ```yaml
 name: Bina Tamang
@@ -42,38 +48,38 @@ interests:
   - Networking
 ```
 
-I'm a MERN developer passionate about building useful, scalable, and reliable web applications. I enjoy learning new technologies, solving problems, and turning ideas into real-world projects.
+I'm a developer passionate about building useful, scalable, and reliable web applications. I enjoy learning new technologies, solving problems, and turning ideas into real-world projects.
 
-- 🔭 Currently learning and building with the MERN stack
-- 🌱 Exploring backend development, APIs, and cloud technologies
-- 💻 Practicing programming through hands-on projects
+- 🔭 Building applications with React, Node.js, and MongoDB
+- 🌱 Learning backend development, APIs, and cloud technologies
+- 💻 Improving my programming and problem-solving skills
 - 🤝 Open to collaboration and learning opportunities
 - 🎯 Working toward becoming a better software engineer
 
 ---
 
-<h2 align="center">🚀 Tools & Technologies</h2>
+## 🚀 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,c,cpp,git,github,vscode,linux,figma,tailwind" alt="Technologies and tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,c,cpp,git,github,vscode,linux,figma,tailwind" alt="Tools and technologies" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ansumoktan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumoktan&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ansumoktan&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumoktan&layout=compact&theme=radical&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ansumoktan&theme=radical&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ansumoktan&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <picture>
@@ -87,7 +93,7 @@ I'm a MERN developer passionate about building useful, scalable, and reliable we
     />
     <img
       src="https://raw.githubusercontent.com/Ansumoktan/Ansumoktan/output/github-snake.svg"
-      alt="Animated GitHub Contribution Snake"
+      alt="Animated GitHub contribution snake"
       width="100%"
     />
   </picture>
@@ -95,28 +101,28 @@ I'm a MERN developer passionate about building useful, scalable, and reliable we
 
 ---
 
-<h2 align="center">💻 What I'm Working On</h2>
+## 💻 What I'm Working On
 
 - 🌐 Building full-stack applications using React and Node.js
-- ⚙️ Learning REST API development with Express.js
+- ⚙️ Developing REST APIs with Express.js
 - 🗄️ Practicing database operations with MongoDB and MySQL
 - 🔐 Exploring networking, system fundamentals, and cloud security
-- 📚 Improving problem-solving and software development skills
+- 📚 Improving my development skills through practical projects
 
 ---
 
-<h2 align="center">📌 What I Can Do</h2>
+## 📌 What I Can Do
 
 - Build responsive frontend interfaces
 - Develop REST APIs using Node.js and Express.js
-- Perform CRUD operations with databases
+- Implement CRUD operations with databases
 - Work with Git and GitHub
-- Build and improve full-stack projects
-- Learn new tools and collaborate with developers
+- Build and improve full-stack applications
+- Collaborate and learn new technologies
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Ansumoktan">
