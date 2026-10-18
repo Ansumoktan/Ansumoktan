@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20👋&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=35" alt="Animated header" />
@@ -5,106 +6,134 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/Ansumoktan" target="_blank">
+  <a href="https://github.com/Ansumoktan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/bina-tamang-0a099b368?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
+  <a href="https://www.linkedin.com/in/bina-tamang-0a099b368/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:binatamang33917@gmail.com" target="_blank">
+  <a href="mailto:binatamang33917@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://ansumoktan.dev" target="_blank">
+  <a href="https://ansumoktan.dev">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+<h2 align="center">👩‍💻 About Me</h2>
 
 ```yaml
 name: Bina Tamang
 role: MERN Developer
 location: Kathmandu, Nepal
+
 currently:
-  - building scalable web applications
-  - learning more about system design and cloud deployment
-  - creating clean, user-friendly interfaces
+  - Building web applications
+  - Learning backend development
+  - Exploring system design and cloud deployment
+
 interests:
   - React
   - Node.js
-  - Express
+  - Express.js
   - MongoDB
-  - problem solving
-  - networking
-  - python
-``` 
+  - Python
+  - Problem solving
+  - Networking
+```
 
-<h2 align="left">🚀 &nbsp;Tools I Have Used and Learned</h2>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
+I'm a MERN developer passionate about building useful, scalable, and reliable web applications. I enjoy learning new technologies, solving problems, and turning ideas into real-world projects.
+
+- 🔭 Currently learning and building with the MERN stack
+- 🌱 Exploring backend development, APIs, and cloud technologies
+- 💻 Practicing programming through hands-on projects
+- 🤝 Open to collaboration and learning opportunities
+- 🎯 Working toward becoming a better software engineer
+
+---
+
+<h2 align="center">🚀 Tools & Technologies</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,c,cpp,git,github,vscode,linux,figma,tailwind" alt="Technologies and tools" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-I'm a MERN developer focused on building scalable and reliable web applications. I enjoy turning ideas into clean, maintainable products and improving both user experience and backend performance.
-
-- 🔭 Currently building MERN products with React, Node.js, and MongoDB
-- 🌱 Learning cloud deployment, system design, and better UX patterns
-- 💬 Open to collaboration, learning opportunities, and interesting projects
-- 📫 Reach me via email or LinkedIn
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ansumoktan&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumoktan&layout=compact&theme=radical&hide_border=false" alt="Most used languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ansumoktan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumoktan&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ansumoktan&theme=radical&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ansumoktan/Ansumoktan/main/assets/animated-contribution-snake.svg" alt="snake contribution graph" width="100%" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Ansumoktan/Ansumoktan/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Ansumoktan/Ansumoktan/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Ansumoktan/Ansumoktan/output/github-snake.svg"
+      alt="Animated GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ---
 
-## 📌 What I Can Do
+<h2 align="center">💻 What I'm Working On</h2>
 
-- Build MERN applications from scratch
-- Design and implement REST APIs
-- Create responsive frontend interfaces
-- Work with MongoDB, MySQL, and database optimization
-- Collaborate using Git/GitHub and Agile workflows
-- Improve product performance and maintainability
+- 🌐 Building full-stack applications using React and Node.js
+- ⚙️ Learning REST API development with Express.js
+- 🗄️ Practicing database operations with MongoDB and MySQL
+- 🔐 Exploring networking, system fundamentals, and cloud security
+- 📚 Improving problem-solving and software development skills
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">📌 What I Can Do</h2>
+
+- Build responsive frontend interfaces
+- Develop REST APIs using Node.js and Express.js
+- Perform CRUD operations with databases
+- Work with Git and GitHub
+- Build and improve full-stack projects
+- Learn new tools and collaborate with developers
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/Ansumoktan" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/bina-tamang-0a099b368?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:binatamang33917@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Ansumoktan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/bina-tamang-0a099b368/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:binatamang33917@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
-  <strong>Always learning, always building, always growing.</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer animation" />
+</p>
+
+<p align="center">
+  <strong>✨ Always learning, always building, always growing. ✨</strong>
 </p>
