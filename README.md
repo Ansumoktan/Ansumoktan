@@ -20,8 +20,8 @@
 </p>
 
 ```yaml
-name: Ansu Moktan
-role: Full-Stack Developer
+name: Bina Tamang
+role: Mern-Stack Developer
 location: Kathmandu, Nepal
 currently:
   - building scalable web applications
@@ -33,6 +33,9 @@ interests:
   - Express
   - MongoDB
   - problem solving
+  - networking
+  - python
+
 ``` 
 
 <h2 align="left">🚀 &nbsp;Tools I Have Used and Learned</h2>
