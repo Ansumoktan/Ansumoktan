@@ -8,10 +8,10 @@
   <a href="https://github.com/Ansumoktan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/ansu-tamang-0a099b368" target="_blank">
+  <a href="https://www.linkedin.com/in/bina-tamang-0a099b368?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ansu33917@gmail.com" target="_blank">
+  <a href="mailto:binatamang33917@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://ansumoktan.dev" target="_blank">
@@ -35,7 +35,6 @@ interests:
   - problem solving
   - networking
   - python
-
 ``` 
 
 <h2 align="left">🚀 &nbsp;Tools I Have Used and Learned</h2>
@@ -102,8 +101,8 @@ I'm a MERN-stack developer focused on building scalable and reliable web applica
 
 <p align="center">
   <a href="https://github.com/Ansumoktan" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/ansu-tamang-0a099b368" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ansu33917@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/bina-tamang-0a099b368?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:binatamang33917@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
