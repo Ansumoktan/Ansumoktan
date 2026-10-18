@@ -21,7 +21,7 @@
 
 ```yaml
 name: Bina Tamang
-role: Mern-Stack Developer
+role: MERN Developer
 location: Kathmandu, Nepal
 currently:
   - building scalable web applications
@@ -60,9 +60,9 @@ interests:
 
 ## 🧠 About Me
 
-I'm a MERN-stack developer focused on building scalable and reliable web applications. I enjoy turning ideas into clean, maintainable products and improving both user experience and backend performance.
+I'm a MERN developer focused on building scalable and reliable web applications. I enjoy turning ideas into clean, maintainable products and improving both user experience and backend performance.
 
-- 🔭 Currently building full-stack products with React, Node.js, and MongoDB
+- 🔭 Currently building MERN products with React, Node.js, and MongoDB
 - 🌱 Learning cloud deployment, system design, and better UX patterns
 - 💬 Open to collaboration, learning opportunities, and interesting projects
 - 📫 Reach me via email or LinkedIn
@@ -88,7 +88,7 @@ I'm a MERN-stack developer focused on building scalable and reliable web applica
 
 ## 📌 What I Can Do
 
-- Build complete full-stack web applications from scratch
+- Build MERN applications from scratch
 - Design and implement REST APIs
 - Create responsive frontend interfaces
 - Work with MongoDB, MySQL, and database optimization
