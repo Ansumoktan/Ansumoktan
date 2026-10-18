@@ -74,7 +74,7 @@ I'm a developer passionate about building useful, scalable, and reliable web app
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ansumoktan&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Ansumoktan&theme=radical&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
