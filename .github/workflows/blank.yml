@@ -1,0 +1,38 @@
+name: Contribution Snake
+
+on:
+  workflow_dispatch:
+
+jobs:
+  make-commits:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure git
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "your-real-github-email@example.com"
+
+      - name: Create empty commits for each date
+        shell: bash
+        run: |
+          set -e
+          if [ ! -f dates.txt ]; then
+            echo "dates.txt not found in repo root." >&2
+            exit 1
+          fi
+
+          while IFS= read -r d || [ -n "$d" ]; do
+            d="${d//$'\r'/}"
+            [ -z "$d" ] && continue
+
+            export GIT_AUTHOR_DATE="${d}T12:00:00Z"
+            export GIT_COMMITTER_DATE="${d}T12:00:00Z"
+            git commit --allow-empty -m "Contribution snake: ${d}" || true
+          done < dates.txt
+
+          git push
