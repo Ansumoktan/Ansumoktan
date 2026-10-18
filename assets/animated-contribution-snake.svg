@@ -1,242 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="200" viewBox="0 0 700 200" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Animated contribution snake">
-  <defs>
-    <linearGradient id="bg" x1="0" x2="1">
-      <stop offset="0" stop-color="#050816" />
-      <stop offset="1" stop-color="#071022" />
-    </linearGradient>
-    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
 
-  <rect width="100%" height="100%" fill="url(#bg)"/>
 
-  <g id="grid" fill="#6d28d9" opacity="0.85">
-    <rect x="12" y="12" width="18" height="18" rx="4"/>
-    <rect x="36" y="12" width="18" height="18" rx="4"/>
-    <rect x="60" y="12" width="18" height="18" rx="4"/>
-    <rect x="84" y="12" width="18" height="18" rx="4"/>
-    <rect x="108" y="12" width="18" height="18" rx="4"/>
-    <rect x="132" y="12" width="18" height="18" rx="4"/>
-    <rect x="156" y="12" width="18" height="18" rx="4"/>
-    <rect x="180" y="12" width="18" height="18" rx="4"/>
-    <rect x="204" y="12" width="18" height="18" rx="4"/>
-    <rect x="228" y="12" width="18" height="18" rx="4"/>
-    <rect x="252" y="12" width="18" height="18" rx="4"/>
-    <rect x="276" y="12" width="18" height="18" rx="4"/>
-    <rect x="300" y="12" width="18" height="18" rx="4"/>
-    <rect x="324" y="12" width="18" height="18" rx="4"/>
-    <rect x="348" y="12" width="18" height="18" rx="4"/>
-    <rect x="372" y="12" width="18" height="18" rx="4"/>
-    <rect x="396" y="12" width="18" height="18" rx="4"/>
-    <rect x="420" y="12" width="18" height="18" rx="4"/>
-    <rect x="444" y="12" width="18" height="18" rx="4"/>
-    <rect x="468" y="12" width="18" height="18" rx="4"/>
-    <rect x="492" y="12" width="18" height="18" rx="4"/>
-    <rect x="516" y="12" width="18" height="18" rx="4"/>
-    <rect x="540" y="12" width="18" height="18" rx="4"/>
-    <rect x="564" y="12" width="18" height="18" rx="4"/>
-    <rect x="588" y="12" width="18" height="18" rx="4"/>
-    <rect x="612" y="12" width="18" height="18" rx="4"/>
+name: Generate Snake Animation
 
-    <rect x="12" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="36" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="60" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="84" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="108" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="132" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="156" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="180" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="204" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="228" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="252" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="276" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="300" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="324" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="348" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="372" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="396" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="420" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="444" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="468" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="492" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="516" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="540" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="564" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="588" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="612" y="36" width="18" height="18" rx="4" fill="#7c3aed"/>
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
 
-    <rect x="12" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="36" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="60" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="84" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="108" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="132" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="156" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="180" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="204" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="228" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="252" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="276" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="300" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="324" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="348" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="372" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="396" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="420" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="444" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="468" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="492" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="516" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="540" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="564" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="588" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="612" y="60" width="18" height="18" rx="4" fill="#a78bfa"/>
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
 
-    <rect x="12" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="36" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="60" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="84" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="108" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="132" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="156" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="180" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="204" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="228" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="252" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="276" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="300" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="324" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="348" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="372" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="396" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="420" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="444" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="468" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="492" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="516" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="540" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="564" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="588" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
-    <rect x="612" y="84" width="18" height="18" rx="4" fill="#7c3aed"/>
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Ansumoktan
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-    <rect x="12" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="36" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="60" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="84" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="108" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="132" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="156" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="180" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="204" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="228" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="252" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="276" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="300" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="324" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="348" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="372" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="396" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="420" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="444" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="468" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="492" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="516" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="540" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="564" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="588" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="612" y="108" width="18" height="18" rx="4" fill="#6d28d9"/>
-
-    <rect x="12" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="36" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="60" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="84" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="108" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="132" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="156" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="180" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="204" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="228" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="252" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="276" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="300" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="324" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="348" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="372" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="396" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="420" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="444" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="468" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="492" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="516" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="540" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="564" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="588" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-    <rect x="612" y="132" width="18" height="18" rx="4" fill="#a78bfa"/>
-
-    <rect x="12" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="36" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="60" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="84" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="108" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="132" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="156" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="180" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="204" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="228" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="252" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="276" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="300" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="324" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="348" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="372" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="396" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="420" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="444" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="468" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="492" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="516" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="540" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="564" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="588" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-    <rect x="612" y="156" width="18" height="18" rx="4" fill="#6d28d9"/>
-  </g>
-
-  <g transform="translate(0,0)">
-    <path id="snakePath"
-          d="M21,21 L621,21 L621,45 L21,45 L21,69 L621,69 L621,93 L21,93 L21,117 L621,117 L621,141 L21,141 L21,165 L621,165"
-          fill="none"
-          stroke="#a78bfa"
-          stroke-width="6"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-          stroke-opacity="0.95"
-          filter="url(#glow)">
-      <animate attributeName="stroke-dasharray" from="0,6000" to="1200,4800" dur="2s" begin="0s" fill="freeze" />
-      <animate attributeName="stroke-dashoffset" from="0" to="-7200" dur="6s" repeatCount="indefinite" />
-    </path>
-
-    <g id="head" filter="url(#glow)">
-      <circle r="8" fill="#fff" opacity="0.95">
-        <animate attributeName="r" values="8;10;8" dur="1.2s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.9;1;0.9" dur="1.2s" repeatCount="indefinite"/>
-      </circle>
-
-      <animateMotion dur="6s" repeatCount="indefinite" rotate="auto">
-        <mpath xlink:href="#snakePath"/>
-      </animateMotion>
-    </g>
-
-    <path d="M21,21 L621,21 L621,45 L21,45 L21,69 L621,69 L621,93 L21,93 L21,117 L621,117 L621,141 L21,141 L21,165 L621,165"
-          fill="none" stroke="#7c3aed" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.12">
-      <animate attributeName="stroke-dashoffset" from="0" to="-7200" dur="6s" repeatCount="indefinite" />
-    </path>
-  </g>
-
-  <text x="350" y="190" font-family="Inter, Arial" font-size="11" fill="#9aa6d1" text-anchor="middle">contribution snake</text>
-</svg>
+      - name: Publish snake animation
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
