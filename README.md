@@ -61,7 +61,7 @@ I'm a developer passionate about building useful, scalable, and reliable web app
 ## 🚀 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,c,cpp,git,github,vscode,linux,figma,tailwind" alt="Tools and technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,c,cpp,git,github,vscode,linux,figma,tailwind,cisco,packettracer" alt="Tools and technologies" />
 </p>
 
 ---
@@ -121,3 +121,4 @@ I'm a developer passionate about building useful, scalable, and reliable web app
 <p align="center">
   <strong>✨ Always learning, always building, always growing. ✨</strong>
 </p>
+
