@@ -81,7 +81,7 @@ I'm a MERN developer focused on building scalable and reliable web applications.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ansumoktan/Ansumoktan/output/github-contribution-grid-snake.svg" alt="snake contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ansumoktan/Ansumoktan/main/assets/animated-contribution-snake.svg" alt="snake contribution graph" width="100%" />
 </p>
 
 ---
