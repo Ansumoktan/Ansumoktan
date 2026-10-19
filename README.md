@@ -58,11 +58,14 @@ I'm a developer passionate about building useful, scalable, and reliable web app
 
 ---
 
-## 🚀 Tools & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,c,cpp,git,github,vscode,linux,figma,tailwind,cisco,packettracer" alt="Tools and technologies" />
+<h3 align="left">Tools & Technologies</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,c,cpp,git,github,vscode,linux,figma,tailwind" alt="Tools and technologies" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
 </p>
+
 
 ---
 
