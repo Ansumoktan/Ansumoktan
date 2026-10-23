@@ -85,7 +85,7 @@ I'm a developer passionate about building useful, scalable, and reliable web app
 
 ## 💻 What I'm Working On
 
-- 🌐 Building full-stack applications using React and Node.js
+- 🌐 Building mern-stack applications using React and Node.js
 - ⚙️ Developing REST APIs with Express.js
 - 🗄️ Practicing database operations with MongoDB and MySQL
 - 🔐 Exploring networking, system fundamentals, and cloud security
