@@ -46,6 +46,7 @@ interests:
   - Python
   - Problem solving
   - Networking
+  - AI
 ```
 
 I'm a developer passionate about building useful, scalable, and reliable web applications. I enjoy learning new technologies, solving problems, and turning ideas into real-world projects.
