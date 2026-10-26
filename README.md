@@ -43,6 +43,9 @@ interests:
   - Node.js
   - Express.js
   - MongoDB
+  - My Sql
+  - Next.js
+  - Typescript
   - Python
   - Problem solving
   - Networking
