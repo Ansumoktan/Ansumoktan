@@ -70,12 +70,14 @@ I'm a developer passionate about building useful, scalable, and reliable web app
 
 
 ---
-
 ## 📊 GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/Ansumoktan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumoktan&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" alt="Bina's GitHub language statistics" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ansumoktan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Bina's GitHub statistics" />
+  </a>
+  <a href="https://github.com/Ansumoktan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumoktan&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most used languages" />
   </a>
 </p>
 
