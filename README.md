@@ -77,17 +77,15 @@ I'm a developer passionate about building useful, scalable, and reliable web app
 
 <p align="center">
   <a href="https://github.com/Ansumoktan">
-    <img src="https://komarev.com/ghpvc/?username=Ansumoktan&style=flat-square&color=1f6feb" alt="Profile views" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ansumoktan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Bina's GitHub statistics" />
+  </a>
+  <a href="https://github.com/Ansumoktan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumoktan&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most used languages" />
   </a>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ansumoktan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumoktan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansumoktan&theme=tokyonight" alt="GitHub profile summary" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansumoktan&theme=tokyo-night&hide_border=true&area=true" alt="Bina's contribution activity graph" />
 </p>
 
 ---
