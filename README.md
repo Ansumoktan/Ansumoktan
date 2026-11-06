@@ -75,12 +75,14 @@ I'm a developer passionate about building useful, scalable, and reliable web app
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ansumoktan&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumoktan&layout=compact&theme=tokyonight" height="180"/>
+<a href="https://github.com/Ansumoktan">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ansumoktan&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB" alt="GitHub statistics: commits, stars, and rank" />
+</a>
+<a href="https://github.com/Ansumoktan">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumoktan&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB" alt="Most-used programming languages" />
+</a>
 
 </div>
-
 
 ---
 
