@@ -46,7 +46,7 @@ interests:
   - MongoDB and PostgreSQL
   - Python and C/C++
   - Object-Oriented Programming
-  - Networking and Cloud Security
+  - Networking 
   - AI and Problem Solving
 ```
 
