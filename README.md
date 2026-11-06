@@ -31,6 +31,16 @@ I’m a developer focused on building full-stack web applications with the MERN 
 **Databases:** MongoDB, MySQL  
 **Tools & Other:** Git, GitHub, Linux, VS Code, Figma, Cisco Packet Tracer, C, C++
 
+## GitHub Language Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumoktan&layout=donut&langs_count=8&theme=default&hide_border=true" alt="GitHub language statistics for Bina Tamang" />
+
+</div>
+
+*Languages are calculated from the code in my public repositories; this reflects code volume, not proficiency.*
+
 ## Current Focus
 
 - Building and improving full-stack projects
