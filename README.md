@@ -76,12 +76,12 @@ I'm a developer passionate about building useful, scalable, and reliable web app
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ansumoktan&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumoktan&layout=compact&theme=radical&hide_border=true" alt="Most used languages" />
+  <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api?username=Ansumoktan&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ansumoktan's GitHub statistics" />
+  <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ansumoktan&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ansumoktan&theme=radical&hide_border=true" alt="GitHub contribution streak" />
+  <img width="75%" src="https://streak-stats.demolab.com/?user=Ansumoktan&theme=radical&hide_border=true" alt="Ansumoktan's GitHub contribution streak" />
 </p>
 
 ---
@@ -128,4 +128,5 @@ I'm a developer passionate about building useful, scalable, and reliable web app
 <p align="center">
   <strong>✨ Always learning, always building, always growing. ✨</strong>
 </p>
+
 
