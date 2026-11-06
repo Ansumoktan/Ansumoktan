@@ -82,8 +82,8 @@ I'm a developer passionate about building useful, scalable, and reliable web app
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ansumoktan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Ansumoktan's GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumoktan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ansumoktan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumoktan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
