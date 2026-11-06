@@ -1,72 +1,129 @@
 <div align="center">
 
-# Bina Tamang
+<img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20👋&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=35" alt="Animated header" />
 
-### MERN Stack Developer · Lifelong Learner
-
-Building practical, reliable web applications and growing through hands-on projects.
-
-[GitHub](https://github.com/Ansumoktan) · [LinkedIn](https://www.linkedin.com/in/bina-tamang-0a099b368/) · [Portfolio](https://ansumoktan.dev) · [Email](mailto:binatamang33917@gmail.com)
-
-Kathmandu, Nepal
+<h3>Hi, I'm Bina Tamang 👋</h3>
+<p>MERN Developer | Lifelong Learner | Building Something New Every Day</p>
 
 </div>
+
+<p align="center">
+  <a href="https://github.com/Ansumoktan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/bina-tamang-0a099b368/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:binatamang33917@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://ansumoktan.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
-## About
+## 👩‍💻 About Me
 
-I’m a developer focused on building full-stack web applications with the MERN stack. I enjoy turning ideas into useful products, strengthening my backend and problem-solving skills, and learning how to build and deploy reliable software.
+```yaml
+name: Bina Tamang
+role: MERN Developer
+location: Kathmandu, Nepal
 
-- Building responsive applications with React and Node.js
-- Developing REST APIs with Express.js
-- Practicing data modeling and CRUD operations with MongoDB and MySQL
-- Exploring TypeScript, Python, networking, cloud technologies, and system design
-- Open to collaboration and learning opportunities
+currently:
+  - Building web applications
+  - Learning backend development
+  - Exploring system design and cloud deployment
 
-## Technologies
+interests:
+  - React
+  - Node.js
+  - Express.js
+  - MongoDB
+  - My Sql
+  - Next.js
+  - Typescript
+  - Python
+  - Problem solving
+  - Networking
+  - AI
+```
 
-**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express.js, Python  
-**Databases:** MongoDB, MySQL  
-**Tools & Other:** Git, GitHub, Linux, VS Code, Figma, Cisco Packet Tracer, C, C++
+I'm a developer passionate about building useful, scalable, and reliable web applications. I enjoy learning new technologies, solving problems, and turning ideas into real-world projects.
 
-## GitHub Language Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumoktan&layout=donut&langs_count=8&theme=default&hide_border=true" alt="GitHub language statistics for Bina Tamang" />
-
-</div>
-
-*Languages are calculated from the code in my public repositories; this reflects code volume, not proficiency.*
-
-## Current Focus
-
-- Building and improving full-stack projects
-- Deepening my understanding of backend development and API design
-- Learning cloud deployment and system fundamentals
-- Practicing problem solving through hands-on work
-
-## What I Bring
-
-- Responsive, user-focused frontend interfaces
-- REST API development with Node.js and Express.js
-- Database integration and CRUD functionality
-- Version control and collaborative workflows with Git and GitHub
-- Curiosity, consistency, and a willingness to learn
-
-## Connect
-
-- **GitHub:** [@Ansumoktan](https://github.com/Ansumoktan)
-- **LinkedIn:** [Bina Tamang](https://www.linkedin.com/in/bina-tamang-0a099b368/)
-- **Portfolio:** [ansumoktan.dev](https://ansumoktan.dev)
-- **Email:** [binatamang33917@gmail.com](mailto:binatamang33917@gmail.com)
+- 🔭 Building applications with React, Node.js, and MongoDB
+- 🌱 Learning backend development, APIs, and cloud technologies
+- 💻 Improving my programming and problem-solving skills
+- 🤝 Open to collaboration and learning opportunities
+- 🎯 Working toward becoming a better software engineer
 
 ---
 
-<div align="center">
 
-*Always learning, building, and growing.*
+<h3 align="left">Tools & Technologies</h3>
 
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,c,cpp,git,github,vscode,linux,figma,tailwind" alt="Tools and technologies" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+</p>
+
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <a href="https://github.com/Ansumoktan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumoktan&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" alt="Bina's GitHub language statistics" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansumoktan&theme=tokyo-night&hide_border=true&area=true" alt="Bina's contribution activity graph" />
+</p>
+
+---
+
+## 💻 What I'm Working On
+
+- 🌐 Building mern-stack applications using React and Node.js
+- ⚙️ Developing REST APIs with Express.js
+- 🗄️ Practicing database operations with MongoDB and MySQL
+- 🔐 Exploring networking, system fundamentals, and cloud security
+- 📚 Improving my development skills through practical projects
+
+---
+
+## 📌 What I Can Do
+
+- Build responsive frontend interfaces
+- Develop REST APIs using Node.js and Express.js
+- Implement CRUD operations with databases
+- Work with Git and GitHub
+- Build and improve full-stack applications
+- Collaborate and learn new technologies
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Ansumoktan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/bina-tamang-0a099b368/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:binatamang33917@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer animation" />
+</p>
+
+<p align="center">
+  <strong>✨ Always learning, always building, always growing. ✨</strong>
+</p>
