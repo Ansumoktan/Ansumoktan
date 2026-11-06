@@ -70,12 +70,18 @@ I'm a developer passionate about building useful, scalable, and reliable web app
 
 
 ---
+
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ansumoktan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumoktan&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most-used languages" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ansumoktan&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumoktan&layout=compact&theme=tokyonight" height="180"/>
+
+</div>
+
+
 ---
 
 ## 💻 What I'm Working On
