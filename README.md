@@ -43,7 +43,7 @@ interests:
   - React and Next.js
   - Node.js and Express.js
   - TypeScript and JavaScript
-  - MongoDB and PostgreSQL
+  - MongoDB , PostgreSQL and Mysql
   - Python and C/C++
   - Object-Oriented Programming
   - Networking 
