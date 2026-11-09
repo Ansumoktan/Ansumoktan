@@ -44,9 +44,10 @@ interests:
   - Node.js and Express.js
   - TypeScript and JavaScript
   - MongoDB , PostgreSQL and Mysql
+  - socket.io and Docker
   - Python and C/C++
   - Object-Oriented Programming
-  - Networking ,Docker
+  - Networking 
   - AI and Problem Solving
 ```
 
