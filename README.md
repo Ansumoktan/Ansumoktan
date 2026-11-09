@@ -40,13 +40,13 @@ currently:
 
 interests:
   - Full-Stack Development
-  - React and Next.js
+  - React and Next.js,ejs
   - Node.js and Express.js
   - TypeScript and JavaScript
   - MongoDB , PostgreSQL and Mysql
   - Python and C/C++
   - Object-Oriented Programming
-  - Networking 
+  - Networking ,Docker
   - AI and Problem Solving
 ```
 
