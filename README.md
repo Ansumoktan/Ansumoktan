@@ -102,9 +102,9 @@ I'm a developer passionate about building useful, scalable, and reliable web app
 - Data Structures and Algorithms
 - REST API Development
 - CRUD Operations
-- WebSocket Communication
 - Networking Fundamentals
 - Database Management
+  
 
 ---
 
