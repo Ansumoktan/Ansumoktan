@@ -130,7 +130,6 @@ I'm a developer passionate about building useful, scalable, and reliable web app
 - ⚙️ Developing REST APIs using Node.js, Express.js, and TypeScript
 - 🔌 Exploring WebSocket for real-time communication
 - 🗄️ Practicing database operations with MongoDB, MySQL, and PostgreSQL
-- 🔐 Exploring networking, system fundamentals, and cloud security
 - 📚 Improving programming skills through practical projects
 
 ---
